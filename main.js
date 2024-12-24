@@ -1,5 +1,5 @@
 'use strict'
 
 function onBallClick() {
-  console.log('Hiiii')
+  console.log('Hiiiii')
 }
