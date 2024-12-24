@@ -10,5 +10,6 @@ h1 {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: palevioletred;
+  background-color: rgb(224, 153, 176);
+  margin: auto;
 }
